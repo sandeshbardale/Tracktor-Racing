@@ -1,0 +1,84 @@
+newmtl black
+Kd 0.0012 0.0012 0.0012
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl white
+Kd 0.3694 0.3694 0.3694
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl Material.001
+Kd 0.0237 0.0237 0.0237
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl yellow
+Kd 0.8000 0.5868 0.0368
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl grey
+Kd 0.3155 0.3155 0.3155
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl green
+Kd 0.0047 0.1878 0.0071
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl Material.005
+Kd 0.0088 0.1156 0.0091
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl glass
+Kd 0.8000 0.8000 0.8000
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 0.5227
+illum 2
+
+newmtl Material.002
+Kd 0.1903 0.1838 0.1497
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl grey.002
+Kd 0.1056 0.0925 0.0925
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl dark_grey
+Kd 0.2585 0.2585 0.2585
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+
+newmtl grey.001
+Kd 0.2394 0.2394 0.2394
+Ka 0.2 0.2 0.2
+Ks 0.5 0.5 0.5
+d 1.0000
+illum 2
+

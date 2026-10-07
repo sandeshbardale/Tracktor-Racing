@@ -1,0 +1,4 @@
+newmtl David_Brown_25D_tractor
+Kd 1.0 1.0 1.0
+map_Kd tractor_texture_0.jpg
+bump tractor_texture_2.png
